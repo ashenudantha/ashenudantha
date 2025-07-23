@@ -1,4 +1,3 @@
-![Flux_Dev_Create_an_eyecatching_modern_banner_with_a_darkthemed_2](https://github.com/user-attachments/assets/27ee83c5-f142-4b54-8ee8-2071eccf3e9d)
 
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%87CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ashen+Udantha;Full-Stack+Developer;Code.+Build.+Innovate."></a>
@@ -65,7 +64,6 @@
 
 ### 🎖 &nbsp;Badges
 
-<img src="https://github.com/user-attachments/assets/ba483b06-e554-40ad-8125-74f1101fff7d" width="200" alt="badge1" />
 
 ---
 
