@@ -4,12 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%87CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ashen+Udantha;Full-Stack+Developer;Code.+Build.+Innovate."></a>
 </h1>
 
-<img src="https://github.com/user-attachments/assets/36960e82-0154-4814-847c-97238eda98eb" 
-     alt="Ashen Banner" 
-     align="right" 
-     width="270" 
-     height="300" 
-     style="box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6); border-radius: 10px;">
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -93,7 +88,5 @@
   <img src="https://img.shields.io/badge/-ashenudantha@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="35"/>
 </a>
 
-<a href="https://www.youtube.com/@ashenleen">
-  <img src="https://img.shields.io/badge/-@ashenleen-FF0000?style=flat&logo=YouTube&logoColor=white" height="35"/>
-</a>
+
 </p>
