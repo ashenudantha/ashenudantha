@@ -70,7 +70,6 @@
 
 ### 🎖 &nbsp;Badges
 
-<img src="https://github.com/user-attachments/assets/ba483b06-e554-40ad-8125-74f1101fff7d" width="200" alt="badge1" />
 
 ---
 
@@ -93,7 +92,5 @@
   <img src="https://img.shields.io/badge/-ashenudantha@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="35"/>
 </a>
 
-<a href="https://www.youtube.com/@ashenleen">
-  <img src="https://img.shields.io/badge/-@ashenleen-FF0000?style=flat&logo=YouTube&logoColor=white" height="35"/>
-</a>
+
 </p>
