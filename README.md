@@ -58,18 +58,19 @@
 ### ⚙ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashenleen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenleen&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashenudantha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenudantha&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashenleen&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashenudantha&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
 
 ### 🎖 &nbsp;Badges
 
+<img src="https://github.com/user-attachments/assets/ba483b06-e554-40ad-8125-74f1101fff7d" width="200" alt="badge1" />
 
 ---
 
@@ -92,5 +93,7 @@
   <img src="https://img.shields.io/badge/-ashenudantha@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="35"/>
 </a>
 
-
+<a href="https://www.youtube.com/@ashenleen">
+  <img src="https://img.shields.io/badge/-@ashenleen-FF0000?style=flat&logo=YouTube&logoColor=white" height="35"/>
+</a>
 </p>
